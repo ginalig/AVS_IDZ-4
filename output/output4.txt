@@ -1,0 +1,10 @@
+Writer modified db[5] to 65
+Writer modified db[3] to 12
+Writer modified db[3] to 12
+Reader read db[5] = 65
+Reader read db[2] = 3
+Reader read db[1] = 2
+Reader read db[3] = 4
+Reader read db[3] = 4
+Reader read db[5] = 65
+Writer modified db[2] to 17

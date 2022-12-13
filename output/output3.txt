@@ -1,0 +1,5 @@
+Reader read db[3] = 4
+Reader read db[2] = 3
+Reader read db[4] = 5
+Writer modified db[4] to 2
+Writer modified db[4] to 2

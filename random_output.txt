@@ -1,0 +1,7 @@
+Writer modified db[1] to 35
+Reader read db[3] = 4
+Reader read db[3] = 4
+Reader read db[4] = 5
+Reader read db[6] = 7
+Reader read db[0] = 1
+Writer modified db[0] to 64
